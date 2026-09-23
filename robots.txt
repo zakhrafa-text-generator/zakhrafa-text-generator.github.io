@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zakhrafa-text-generator.github.io/sitemap.xml
